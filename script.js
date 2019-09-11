@@ -569,7 +569,8 @@ All the report data should be printed to the console.
 HINT: Use some of the ES6 features: classes, subclasses, template strings, default parameters, maps, arrow functions, destructuring, etc.
 
 */
-/*
+
+
 class Element {
     constructor (name, buildYear){
         this.name = name;
@@ -654,7 +655,7 @@ function reportStreets(s) {
 
 reportParks(allParks);
 reportStreets(allStreets);
-*/
+
 
 /*
 
@@ -761,6 +762,7 @@ reportStreets(allStreets);
 
 */
 
+/*
 function practice (i){
     return i+1;
 };
@@ -777,7 +779,7 @@ c = a.map(practice);
 console.log("=====");
 console.log(a);
 console.log(c);
-
+*/
 
 
 
